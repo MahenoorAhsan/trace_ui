@@ -1,0 +1,344 @@
+{
+    "result": [
+        {
+            "Title": "C045-02[1].mp4",
+            "CHANNEL": "TikTok",
+            "Handle": "@naturelover",
+            "LOCATION": "Delhi",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 91.98628956937279,
+            "VIEWS": 551405,
+            "REACTS": 507217,
+            "PErson/Location detected": "Amitabh Bachchan",
+            "Datetime": "1-Mar 8.24PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C044-02[1].mp4",
+            "CHANNEL": "Twitter",
+            "Handle": "sundarlal",
+            "LOCATION": "Pune",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Wine"
+            ],
+            "Virality": 55.449821210193484,
+            "VIEWS": 688518,
+            "REACTS": 381782,
+            "PErson/Location detected": "-",
+            "Datetime": "1-Mar 8.24PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C034-031.mp4",
+            "CHANNEL": "Instagram",
+            "Handle": "@technerd",
+            "LOCATION": "Kolkata",
+            "EMOTION": [],
+            "SITUATIONS": [],
+            "Virality": 94.55906458310567,
+            "VIEWS": 274530,
+            "REACTS": 259593,
+            "PErson/Location detected": "Hyderabad",
+            "Datetime": "1-Mar 8.24PM",
+            "Threat": 0.0
+        },
+        {
+            "Title": "C037-011.mp4",
+            "CHANNEL": "Snapchat",
+            "Handle": "@musiclover",
+            "LOCATION": "Mumbai",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 61.707451992729766,
+            "VIEWS": 37963,
+            "REACTS": 23426,
+            "PErson/Location detected": "Sachin Tendulkar",
+            "Datetime": "8-Sep 10.15AM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C038-03[1].mp4",
+            "CHANNEL": "TikTok",
+            "Handle": "@beautybeast",
+            "LOCATION": "Kolkata",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 22.63748972821621,
+            "VIEWS": 65714,
+            "REACTS": 14876,
+            "PErson/Location detected": "Sachin Tendulkar",
+            "Datetime": "12-May 9.00PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C040-02[1].mp4",
+            "CHANNEL": "Instagram",
+            "Handle": "@bookworm",
+            "LOCATION": "Kolkata",
+            "EMOTION": [],
+            "SITUATIONS": [],
+            "Virality": 73.4047390022795,
+            "VIEWS": 323317,
+            "REACTS": 237330,
+            "PErson/Location detected": "-",
+            "Datetime": "15-Jan 11.45AM",
+            "Threat": 0.0
+        },
+        {
+            "Title": "C033-011.mp4",
+            "CHANNEL": "Instagram",
+            "Handle": "@beautybeast",
+            "LOCATION": "Hyderabad",
+            "EMOTION": [],
+            "SITUATIONS": [],
+            "Virality": 7.824162211344326,
+            "VIEWS": 833086,
+            "REACTS": 65182,
+            "PErson/Location detected": "Shah Rukh Khan",
+            "Datetime": "21-Nov 6.30PM",
+            "Threat": 0.0
+        },
+        {
+            "Title": "C039-02[1].mp4",
+            "CHANNEL": "TikTok",
+            "Handle": "@petlover",
+            "LOCATION": "Delhi",
+            "EMOTION": [
+                "joy"
+            ],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 40.58083882444723,
+            "VIEWS": 740894,
+            "REACTS": 300661,
+            "PErson/Location detected": "Sundar Pichai",
+            "Datetime": "15-Jan 11.45AM",
+            "Threat": 16.67
+        },
+        {
+            "Title": "C037-021.mp4",
+            "CHANNEL": "Instagram",
+            "Handle": "@wanderlust",
+            "LOCATION": "Mumbai",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 51.16528521014232,
+            "VIEWS": 588268,
+            "REACTS": 300989,
+            "PErson/Location detected": "Amitabh Bachchan",
+            "Datetime": "8-Sep 10.15AM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C034-011.mp4",
+            "CHANNEL": "Twitter",
+            "Handle": "@movielover",
+            "LOCATION": "Delhi",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 23.557276607974153,
+            "VIEWS": 403629,
+            "REACTS": 95084,
+            "PErson/Location detected": "-",
+            "Datetime": "12-May 9.00PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C032-021.mp4",
+            "CHANNEL": "Facebook",
+            "Handle": "@naturelover",
+            "LOCATION": "Hyderabad",
+            "EMOTION": [],
+            "SITUATIONS": [],
+            "Virality": 71.50288493201677,
+            "VIEWS": 209537,
+            "REACTS": 149825,
+            "PErson/Location detected": "Indira Nooyi",
+            "Datetime": "1-Mar 8.24PM",
+            "Threat": 0.0
+        },
+        {
+            "Title": "fight_scene.mp4",
+            "CHANNEL": "Instagram",
+            "Handle": "@movielover",
+            "LOCATION": "Delhi",
+            "EMOTION": [
+                "sadness",
+                "targeted",
+                "anger",
+                "disgust"
+            ],
+            "SITUATIONS": [
+                "Wine",
+                "Shotgun",
+                "Syringe",
+                "Beer"
+            ],
+            "Virality": 84.12810135491817,
+            "VIEWS": 5683,
+            "REACTS": 4781,
+            "PErson/Location detected": "Bangalore",
+            "Datetime": "21-Nov 6.30PM",
+            "Threat": 66.67
+        },
+        {
+            "Title": "C045-03[1].mp4",
+            "CHANNEL": "LinkedIn",
+            "Handle": "@musiclover",
+            "LOCATION": "Chennai",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Beer"
+            ],
+            "Virality": 13.73862016338458,
+            "VIEWS": 338098,
+            "REACTS": 46450,
+            "PErson/Location detected": "-",
+            "Datetime": "15-Jan 11.45AM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C031-011.mp4",
+            "CHANNEL": "LinkedIn",
+            "Handle": "sundarlal",
+            "LOCATION": "Bengaluru",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 97.93541795499154,
+            "VIEWS": 929825,
+            "REACTS": 910628,
+            "PErson/Location detected": "Virat Kohli",
+            "Datetime": "8-Sep 10.15AM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C035-031.mp4",
+            "CHANNEL": "Twitter",
+            "Handle": "@foodieforever",
+            "LOCATION": "Delhi",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 6.325522846500784,
+            "VIEWS": 967588,
+            "REACTS": 61205,
+            "PErson/Location detected": "-",
+            "Datetime": "1-Mar 8.24PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C042-02[1].mp4",
+            "CHANNEL": "TikTok",
+            "Handle": "@petlover",
+            "LOCATION": "Kolkata",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 55.044783296932295,
+            "VIEWS": 998140,
+            "REACTS": 549424,
+            "PErson/Location detected": "-",
+            "Datetime": "12-May 9.00PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C037-01[1].mp4",
+            "CHANNEL": "LinkedIn",
+            "Handle": "@foodieforever",
+            "LOCATION": "Pune",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 79.85068237682289,
+            "VIEWS": 805933,
+            "REACTS": 643543,
+            "PErson/Location detected": "Sundar Pichai",
+            "Datetime": "15-Jan 11.45AM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C039-01[1].mp4",
+            "CHANNEL": "Twitter",
+            "Handle": "@beautybeast",
+            "LOCATION": "Pune",
+            "EMOTION": [
+                "disgust"
+            ],
+            "SITUATIONS": [
+                "Knife"
+            ],
+            "Virality": 57.101213157575835,
+            "VIEWS": 148538,
+            "REACTS": 84817,
+            "PErson/Location detected": "Agra",
+            "Datetime": "8-Sep 10.15AM",
+            "Threat": 16.67
+        },
+        {
+            "Title": "C045-031.mp4",
+            "CHANNEL": "Twitter",
+            "Handle": "@petlover",
+            "LOCATION": "Hyderabad",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Beer"
+            ],
+            "Virality": 94.84772890063478,
+            "VIEWS": 40487,
+            "REACTS": 38401,
+            "PErson/Location detected": "Jammu and Kashmir",
+            "Datetime": "12-May 9.00PM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C040-01[1].mp4",
+            "CHANNEL": "TikTok",
+            "Handle": "@bookworm",
+            "LOCATION": "Pune",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Beer"
+            ],
+            "Virality": 68.6999063394575,
+            "VIEWS": 492203,
+            "REACTS": 338143,
+            "PErson/Location detected": "Agra",
+            "Datetime": "8-Sep 10.15AM",
+            "Threat": 8.33
+        },
+        {
+            "Title": "C044-021.mp4",
+            "CHANNEL": "LinkedIn",
+            "Handle": "sundarlal",
+            "LOCATION": "Chennai",
+            "EMOTION": [],
+            "SITUATIONS": [
+                "Wine"
+            ],
+            "Virality": 17.837570466215475,
+            "VIEWS": 254732,
+            "REACTS": 45438,
+            "PErson/Location detected": "Sundar Pichai",
+            "Datetime": "12-May 9.00PM",
+            "Threat": 8.33
+        }
+    ]
+}

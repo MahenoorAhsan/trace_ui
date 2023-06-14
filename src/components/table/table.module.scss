@@ -1,0 +1,36 @@
+.threat_block{
+    display: flex;
+    overflow: hidden;
+    height: 40px;
+    width: 40px;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: 2px solid;
+}
+
+.border_green{
+    border-color: greenyellow;
+}
+.border_yellow{
+    border-color: goldenrod;
+}
+.border_red{
+    border-color: red;
+}
+th:not(:nth-child(2)){
+    text-align: center;
+}
+tr{
+    font-size: 12px;
+    font-weight: 500;
+}
+td{
+    vertical-align: middle;
+    text-align: center;
+    & a{
+        color: var(--bs-link-color);
+    }
+}

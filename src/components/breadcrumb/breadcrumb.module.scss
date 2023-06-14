@@ -1,0 +1,14 @@
+.breadcrumb_container{
+    width: 100%;
+    & ul{
+        display: flex;
+        padding-left: 0px;
+        & li{
+            list-style: none;
+            text-transform: capitalize;
+            &:not(:first-child){
+                margin-left: 10px;
+            }
+        }
+    }
+}
