@@ -96,7 +96,7 @@ const Alaysis = () => {
     if (event.target.files[0].type == "video/mp4") {
       let formData = new FormData();
       formData.append("file", event.target.files[0]);
-      formData.append("video_no", 12345);
+      formData.append("video_no", Math.ceil(Math.random() * 1000));
 
       try {
         Swal.fire({
