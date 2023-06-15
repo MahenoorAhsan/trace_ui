@@ -65,6 +65,8 @@ export function processData(videoData){
 
 
 export function capitalizeWord(text){
+  text = text.toLowerCase();
+  text = text.replace(/_/g, ' ');
   var textArr = text.split(' ');
   for (var i = 0; i < textArr.length; i++) {
     textArr[i] = textArr[i].charAt(0).toUpperCase() + textArr[i].slice(1);

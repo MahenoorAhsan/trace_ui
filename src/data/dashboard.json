@@ -1,0 +1,291 @@
+[
+  {
+      "name": "Politically Significant",
+      "tag": "political",
+      "data": [
+          {
+              "file_name": "Politics6.mp4",
+              "location": "Germany",
+              "threat_score": "34252",
+              "person_identified": "James Bilray, Thomas Nast",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics5.mp4",
+              "location": "USA",
+              "threat_score": "342",
+              "person_identified": "James K Polk,Geo M.Dallas,Bruce Chadwick",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics4.mp4",
+              "location": "USA",
+              "threat_score": "352",
+              "person_identified": "John Lewis",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics7.mp4",
+              "location": "New Jersey, America",
+              "threat_score": "",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics2.mp4",
+              "location": "America",
+              "threat_score": "",
+              "person_identified": "Savannah Sellers, Lindsey Reyser",
+              "objects": ""
+          }
+      ]
+  },
+
+  {
+      "name": "Top 10 Videos Of the day",
+      "tag": "political",
+      "data": [
+          {
+              "file_name": "Politics6.mp4",
+              "location": "Germany",
+              "threat_score": "34252",
+              "person_identified": "James Bilray, Thomas Nast",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics5.mp4",
+              "location": "USA",
+              "threat_score": "342",
+              "person_identified": "James K Polk,Geo M.Dallas,Bruce Chadwick",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics4.mp4",
+              "location": "USA",
+              "threat_score": "352",
+              "person_identified": "John Lewis",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics7.mp4",
+              "location": "New Jersey, America",
+              "threat_score": "",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics2.mp4",
+              "location": "America",
+              "threat_score": "",
+              "person_identified": "Savannah Sellers, Lindsey Reyser",
+              "objects": ""
+          }
+      ]
+  },
+
+  {
+      "name": "Suspicious Videos",
+      "tag": "political",
+      "data": [
+          {
+              "file_name": "Politics6.mp4",
+              "location": "Germany",
+              "threat_score": "34252",
+              "person_identified": "James Bilray, Thomas Nast",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics5.mp4",
+              "location": "USA",
+              "threat_score": "342",
+              "person_identified": "James K Polk,Geo M.Dallas,Bruce Chadwick",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics4.mp4",
+              "location": "USA",
+              "threat_score": "352",
+              "person_identified": "John Lewis",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics7.mp4",
+              "location": "New Jersey, America",
+              "threat_score": "",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics2.mp4",
+              "location": "America",
+              "threat_score": "",
+              "person_identified": "Savannah Sellers, Lindsey Reyser",
+              "objects": ""
+          }
+      ]
+  },
+  {
+      "name": "Celebrity Involvement",
+      "tag": "political",
+      "data": [
+          {
+              "file_name": "Politics6.mp4",
+              "location": "Germany",
+              "threat_score": "34252",
+              "person_identified": "James Bilray, Thomas Nast",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics5.mp4",
+              "location": "USA",
+              "threat_score": "342",
+              "person_identified": "James K Polk,Geo M.Dallas,Bruce Chadwick",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics4.mp4",
+              "location": "USA",
+              "threat_score": "352",
+              "person_identified": "John Lewis",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics7.mp4",
+              "location": "New Jersey, America",
+              "threat_score": "",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Politics2.mp4",
+              "location": "America",
+              "threat_score": "",
+              "person_identified": "Savannah Sellers, Lindsey Reyser",
+              "objects": ""
+          }
+      ]
+  },
+  {
+      "name": "suspicious_viral_videos",
+      "tag": "intimidation",
+      "data": [
+          {
+              "file_name": "Intimidation1.mp4",
+              "location": "",
+              "threat_score": "12345",
+              "person_identified": "Mike Tyson",
+              "objects": ""
+          },
+          {
+              "file_name": "Intimidation2.mp4",
+              "location": "",
+              "threat_score": "54321",
+              "person_identified": "Mike Tyson",
+              "objects": ""
+          },
+          {
+              "file_name": "Intimidation3.mp4",
+              "location": "",
+              "threat_score": "98765",
+              "person_identified": "Alan Ritchson",
+              "objects": ""
+          },
+          {
+              "file_name": "Intimidation4.mp4",
+              "location": "",
+              "threat_score": "67890",
+              "person_identified": "Will Smith, Dennis Greene",
+              "objects": ""
+          }
+      ]
+  },
+  {
+      "name": "top_10_video_for_the_day",
+      "tag": "drug_abuse",
+      "data": [
+          {
+              "file_name": "Drugs-2.mp4",
+              "location": "",
+              "threat_score": "18962",
+              "person_identified": "Dhruv Vikram",
+              "objects": "Alcohol"
+          },
+          {
+              "file_name": "Drugs-3.mp4",
+              "location": "",
+              "threat_score": "27541",
+              "person_identified": "Dhruv Vikram",
+              "objects": "Cocaine"
+          },
+          {
+              "file_name": "Drugs-5.mp4",
+              "location": "",
+              "threat_score": "34288",
+              "person_identified": "Shahid Kapoor",
+              "objects": "Cocaine"
+          },
+          {
+              "file_name": "Drugs-8.mp4",
+              "location": "",
+              "threat_score": "45612",
+              "person_identified": "Ben Stiller",
+              "objects": "Cocaine"
+          }
+      ]
+  },
+  {
+      "name": "crowd_involvement",
+      "tag": "violence",
+      "data": [
+          {
+              "file_name": "Violence1.mp4",
+              "location": "",
+              "threat_score": "78563",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Violence2.mp4",
+              "location": "",
+              "threat_score": "97641",
+              "person_identified": "Youtuber Pedro Mota",
+              "objects": ""
+          },
+          {
+              "file_name": "Violence3.mp4",
+              "location": "",
+              "threat_score": "78645",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Violence4.mp4",
+              "location": "",
+              "threat_score": "65478",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Violence5.mp4",
+              "location": "Jantar Mantar",
+              "threat_score": "58479",
+              "person_identified": "Vinesh Phogat, Sakshi Malik and Bajrang Punia",
+              "objects": ""
+          },
+          {
+              "file_name": "Violence6.mp4",
+              "location": "",
+              "threat_score": "69457",
+              "person_identified": "",
+              "objects": ""
+          },
+          {
+              "file_name": "Violence7.mp4",
+              "location": "",
+              "threat_score": "38479",
+              "person_identified": "",
+              "objects": ""
+          }
+      ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+    "name": "Top 10 Video for the day",
+    "tag": "hate_speech",
+    "data": [
+        {
+            "file_name": "video1.mp4",
+            "location": "42344",
+            "threat_score": "34252",
+            "objects": "Weapons, Knife, Gun"
+        },
+        {
+            "file_name": "video2.mp4",
+            "location": "42344",
+            "threat_score": "34252",
+            "objects": "Weapons, Knife, Gun"
+        },
+        {
+            "file_name": "video2.mp4",
+            "location": "42344",
+            "threat_score": "34252",
+            "objects": "Weapons, Knife, Gun"
+        }
+    ]   
+    },
+    {
+        "name": "Suspicious viral videos",
+        "tag": "intimidation",
+        "data": [
+            {
+                "file_name": "video1.mp4",
+                "location": "42344",
+                "threat_score": "34252",
+                "objects": "Weapons, Knife, Gun"
+            },
+            {
+                "file_name": "video2.mp4",
+                "location": "42344",
+                "threat_score": "34252",
+                "objects": "Weapons, Knife, Gun"
+            },
+            {
+                "file_name": "video2.mp4",
+                "location": "42344",
+                "threat_score": "34252",
+                "objects": "Weapons, Knife, Gun"
+            }
+        ]   
+        }
+]
