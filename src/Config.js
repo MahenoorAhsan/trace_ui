@@ -1,12 +1,27 @@
+// export const API = {
+//     "upload" : "http://64.120.30.97:5000/trace/upload",
+//     "extract" : "http://64.120.30.97:5000/trace/extract_record"
+// };
+
+// export const HEADERS = {
+//     "Content-Type": "multipart/form-data",
+//     "Authorization" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0cmFjZSIsIm5hbWUiOiJmeF90cmFjZV91c2VyIiwiaWF0IjoxNTE2MjM5MDIyfQ.Yex2anJ9wbxVw22OWmZ8KpvapVlcb11LASajgiHURMs",
+//     "Access-Control-Allow-Origin": "*"
+// };
+
+// export const BASE_URI = "http://64.120.30.97:5000/"
+// const API_BASE_URI = process.env.REACT_APP_API_BASE_URI || "http://64.120.30.97:5000/";
+const API_BASE_URI = process.env.REACT_APP_API_BASE_URI || "https://traces.neurologicai.com/";
+
 export const API = {
-    "upload" : "http://64.120.30.97:5000/trace/upload",
-    "extract" : "http://64.120.30.97:5000/trace/extract_record"
+  upload: `${API_BASE_URI}trace/upload`,
+  extract: `${API_BASE_URI}trace/extract_record`,
 };
 
 export const HEADERS = {
-    "Content-Type": "multipart/form-data",
-    "Authorization" : "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0cmFjZSIsIm5hbWUiOiJmeF90cmFjZV91c2VyIiwiaWF0IjoxNTE2MjM5MDIyfQ.Yex2anJ9wbxVw22OWmZ8KpvapVlcb11LASajgiHURMs",
-    "Access-Control-Allow-Origin": "*"
+  "Content-Type": "multipart/form-data",
+  "Authorization": "Bearer <your_token>",
+  "Access-Control-Allow-Origin": "*",
 };
 
-export const BASE_URI = "http://64.120.30.97:5000/"
+export const BASE_URI = API_BASE_URI;

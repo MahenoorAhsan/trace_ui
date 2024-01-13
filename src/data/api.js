@@ -1,7 +1,10 @@
+const BASE_API_URL = process.env.REACT_APP_API_BASE_URL || "https://traces.neurologicai.com/";
+
 export async function getTableData() {
   try{
     var res = await fetch(
-      "http://64.120.30.97:5000/trace/get_table_of_contents",
+      // "http://64.120.30.97:5000/trace/get_table_of_contents",
+      `${BASE_API_URL}/trace/get_table_of_contents`,
       {
         headers: {
           Authorization:
@@ -23,7 +26,8 @@ export async function getTableData() {
 export async function getVideoData(name) {
   try{
     var res = await fetch(
-      `http://64.120.30.97:5000/trace/get_video_info?filename=${name}`,
+      // `http://64.120.30.97:5000/trace/get_video_info?filename=${name}`,
+      `${BASE_API_URL}/trace/get_video_info?filename=${name}`,
       {
         headers: {
           Authorization:
